@@ -12,7 +12,7 @@ Ethical hacking helps organizations identify vulnerabilities before malicious at
 
 ## 🖼️ Ethical Hacking Process
 
-![Ethical Hacking Cycle](image1.png)
+![Ethical Hacking Cycle](image1.jpg)
 
 The ethical hacking lifecycle typically includes:
 
